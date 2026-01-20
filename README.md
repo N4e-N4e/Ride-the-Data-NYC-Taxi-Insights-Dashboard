@@ -34,4 +34,8 @@ Limitations:
 
 ------------------------------------------
 
-The link/work can be only be accessed by users associated with Mizzou since the app is hosted on the Mizzou Shiny Server. 
+The link/work can be only be accessed by users associated with Mizzou since the app is hosted on the Mizzou Shiny Server. As such, kindly refer to the "Pictures" directory to see how the app turned out. 
+
+------------------------------------------
+
+In the future, I plan to host the project on my local server so that everyone can access the app. 
