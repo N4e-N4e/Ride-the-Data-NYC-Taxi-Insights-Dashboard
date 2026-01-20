@@ -1,0 +1,54 @@
+body, .content-wrapper, .right-side {
+  background-color: #EAEAEA; 
+  color: #000000;              
+}
+
+
+.box {
+  background-color: #F5F5F5 !important;
+  box-shadow: 0 2px 5px rgba(74,144,226,0.2); 
+}
+
+.box-header {
+  background-color: #F39C12;             
+  text-align: center;
+  font-weight: bold !important;
+}
+
+.box-header .box-title {
+  font-weight: bold !important; 
+  color: #000000 !important;    
+  float: none;      
+  display: block;
+  text-align: center;
+}
+
+
+.Vis-Container {
+  text-align: center;
+  display: flex; 
+  justify-content: center; 
+  
+}
+
+.box .box-tools button {
+  color: white !important;
+}
+
+.tight-row > [class*='col-'] {
+  padding-left: 2px !important;
+  padding-right: 2px !important;
+}
+
+leaflet-control{
+    text-align: left;
+}
+        
+.info.legend {
+    text-align: left;
+}
+
+.info.legend i {
+    float: left;
+    margin-right: 8px; 
+}
